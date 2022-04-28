@@ -1,0 +1,332 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Home Page</title>
+    <link rel="stylesheet" href="../CSS/HomePage.css">
+    <link rel='stylesheet' href='https://cdn.jsdelivr.net/gh/alphardex/aqua.css@master/dist/aqua.min.css'>
+    <link rel="stylesheet" href="https://fonts.googleapis.com/css2?family=Barlow+Semi+Condensed:wght@500;600&display=swap">
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <script src="https://kit.fontawesome.com/c805d24519.js" crossorigin="anonymous"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+</head>
+<body>
+    <div id="mainContainer">
+        <header>
+            <div id="name">
+                <h1 id="name-text">George Katsonis</h1>
+            </div>
+
+            <div id="socialMedia">
+                <a href="https://github.com/XarsEvandor" class="fab fa-github-alt"></a>
+                <a href="mailto:giorgos_katsonis@hotmail.com" class="fas fa-at"></a>
+                <a href="tel:6942946552" class="fas fa-mobile-alt"></a>
+            </div>
+
+            <div id="login">
+                <a href="LoginPage.html" id="loginText">Login</a>
+            </div>
+        </header>
+
+        <nav>
+            <input type="checkbox" id="burger-toggle">
+            <label for="burger-toggle" class="burger-menu">
+                <div class="line"></div>
+                <div class="line"></div>
+                <div class="line"></div>
+            </label>
+            <div class="menu">
+                <div class="menu-inner">
+                    <ul class="menu-nav">
+                        <li class="menu-nav-item"><a class="menu-nav-link" href="#"><span>
+            <div>Home</div>
+          </span></a></li>
+                        <li class="menu-nav-item"><a class="menu-nav-link" href="AboutPage.html"><span>
+            <div>About</div>
+          </span></a></li>
+                        <li class="menu-nav-item"><a class="menu-nav-link" href="ProjectsPage.html"><span>
+            <div>Projects</div>
+          </span></a></li>
+                        <li class="menu-nav-item"><a class="menu-nav-link" href="StorePage.html"><span>
+            <div>Store</div>
+          </span></a></li>
+                        <li class="menu-nav-item"><a class="menu-nav-link" href="ForumPage.html"><span>
+            <div>Forum</div>
+          </span></a></li>
+                        <li class="menu-nav-item"><a class="menu-nav-link" href="ContactPage.html"><span>
+            <div>Contact</div>
+          </span></a></li>
+                    </ul>
+                    <div class="gallery">
+                        <div class="title">
+                            <p><a href="GalleryPage.html">Gallery</a></p>
+                        </div>
+                        <div class="images">
+                            <a class="image-link" href="#">
+                                <div class="image" data-label="Dreams"><img src="../../Assets/Images/Dream.jpg" alt=""></div>
+                            </a>
+                            <a class="image-link" href="#">
+                                <div class="image" data-label="Small Steps"><img src="../../Assets/Images/Small%20Steps.jpg" alt=""></div>
+                            </a>
+                            <a class="image-link" href="#">
+                                <div class="image" data-label="Deep Sea"><img src="../../Assets/Images/Deep%20Sea.jpg" alt=""></div>
+                            </a>
+                            <a class="image-link" href="#">
+                                <div class="image" data-label="Violence in the snow"><img src="../../Assets/Images/Violence%20in%20the%20snow.jpg" alt=""></div>
+                            </a>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </nav>
+
+        <section class="bgimg-1">
+            <article class="typewriter">
+                <div class="container-title">
+                    <h1 class="typewritter-title"><span class="primary__title">I'm George Katsonis, a&nbsp;</span>
+                        <span class="secondary__title"> </span></h1>
+                    <h2 class="typewriter-subtitle">Welcome to my website</h2>
+                </div>
+            </article>
+        </section>
+
+        <div id="about">
+            <section id="about-title">
+                <h3>About</h3>
+            </section>
+
+            <section id="about-content">
+                <article class="flyInTxtCont">
+                    <div class="flyIn lineOne">PECULIAR</div>
+                    <div class="flyIn lineTwo">BIZARRE </div>
+                    <div class="flyIn lineThree">VERY STRANGE</div>
+                    <div class="flyIn lineFour">At this point cannot even be fazed.</div>
+                </article>
+
+                <article id="about-description">
+                    <p>A third year Cs student, I am creative, curious and overzealous, at times to a fault.
+                        Always seeking the next new thing to invest my days into, whether it will be a new technology,
+                        an exciting artistic avenue, or the latest idea that became a mini obsession.
+                        Passionate in any work assigned to me, I strive for results that satisfy my own strict demands,
+                        beyond external requirements or specifications.
+                        Love working with passionate people and learning from them, as well as transmitting what knowledge
+                        I possess, to others.
+                    </p>
+                </article>
+            </section>
+        </div>
+
+        <div class="bgimg-2">
+        </div>
+
+        <div id="projects">
+            <section id="projects-title">
+                <h3>Projects</h3>
+            </section>
+
+            <section id="projects-content">
+                <article class="projects-projectBlock" id="projects-bra">
+                    <div class="projects-name">
+                        <h4>VibroBra</h4>
+                    </div>
+
+                    <div class="projects-description">
+                        <p>A proprietary Biomedical Engineering Project. </p>
+                    </div>
+
+                    <div class="projects-icon">
+
+                    </div>
+                </article>
+
+                <article class="projects-projectBlock grid-col-span-2" id="projects-ai">
+                    <div class="projects-name">
+                        <h4>Ai Trainer And COVID-19 Data Analyzer</h4>
+                    </div>
+
+                    <div class="projects-description">
+                        <p>
+                            <span class="projects-span-white">A tool that analyzes off</span>icial data for
+                            covid vac<span class="projects-span-white">cinations and produces ch</span>arts as well as
+                            allowing <span class="projects-span-white">for sorting and categorizi</span>ng.
+                            Furthermore, a <span class="projects-span-white">machine learning algorithm</span> that is
+                            trained and <span class="projects-span-white">tested on mock data</span> is implemented.
+                        </p>
+                    </div>
+
+                    <div class="projects-icon">
+
+                    </div>
+                </article>
+
+                <article class="projects-projectBlock grid-row-span-2" id="projects-encoder">
+                    <div class="projects-name">
+                        <h4>BCD Encoder Circuit</h4>
+                    </div>
+
+                    <div class="projects-description">
+                        <p>
+                            An encoder chip that receives binary input and produces two different encodings.
+                            <br><br>
+                            Furthermore, uses registers to store 16-bit inputs
+                                and operates a rudi<span class="projects-span-white">mentary dis</span>play.
+                            <br><br>
+                            <span class="projects-span-white">Finally, the circuit is optimized and bubble pushed.</span>
+                        </p>
+                    </div>
+
+                    <div class="projects-icon">
+
+                    </div>
+                </article>
+
+                <article class="projects-projectBlock grid-col-span-2" id="projects-neuro">
+                    <div class="projects-name">
+                        <h4>NeuroSuitUp</h4>
+                    </div>
+
+                    <div class="projects-description">
+                        <p>
+                            This Biomedic<span class="projects-span-white">al Engineering proje</span>ct is
+                            funded by the Greek g<span class="projects-span-white">overnment and aims</span> to create an
+                            exoskeletal ja<span class="projects-span-white">cket and glove which</span>
+                            will assist in Neural Rehabilit<span class="projects-span-white">ation for patients</span>
+                            who suffer from <span class="projects-span-white">paralysis.</span>
+                        </p>
+                    </div>
+
+                    <div class="projects-icon">
+
+                    </div>
+                </article>
+
+                <article class="projects-projectBlock" id="projects-sql">
+                    <div class="projects-name">
+                        <h4>Multi Table SQL</h4>
+                    </div>
+
+                    <div class="projects-description">
+                        <p>
+                            An advanced SQL project that creates the data for a mock enterprise and then manipulates them
+                            in interesting ways.
+                        </p>
+                    </div>
+
+                    <div class="projects-icon">
+
+                    </div>
+                </article>
+            </section>
+        </div>
+
+        <div class="bgimg-3">
+        </div>
+
+        <div id="store">
+
+            <section id="store-title">
+                <h3>Store</h3>
+            </section>
+
+            <section class="cards-wrapper">
+                <article class="card-wrapper">
+                    <div class="card-1 card-object card-object-hf"><a class="face front" href="">
+                        <div class="title-wrapper">
+                            <div class="title">Shirt</div>
+                            <div class="subtitle">Stylish simplicity</div>
+                        </div></a><a class="face back" href="#">
+                        <div class="img-wrapper">
+                        </div>
+                        <div class="info-wrapper">
+                            <div class="info-title">Shirt</div>
+                            <ul class="info-content">
+                                <li class="info-content-item">Sizes: <span> S M L</span></li>
+                                <li class="info-content-item">Price <span>$20</span></li>
+                            </ul>
+                        </div></a></div>
+                </article>
+                <article class="card-wrapper">
+                    <div class="card-2 card-object card-object-hf"><a class="face front" href="">
+                        <div class="title-wrapper">
+                            <div class="title">Cap</div>
+                            <div class="subtitle">Cool Forehead</div>
+                        </div></a><a class="face back" href="#">
+                        <div class="img-wrapper">
+                        </div>
+                        <div class="info-wrapper">
+                            <div class="info-title">Cap</div>
+                            <ul class="info-content">
+                                <li class="info-content-item">Sizes: <span> S M L</span></li>
+                                <li class="info-content-item">Price <span>$15</span></li>
+                            </ul>
+                        </div></a></div>
+                </article>
+                <article class="card-wrapper">
+                    <div class="card-3 card-object card-object-hf"><a class="face front" href="">
+                        <div class="title-wrapper">
+                            <div class="title">Mug</div>
+                            <div class="subtitle">A mug on a mug</div>
+                        </div></a><a class="face back" href="#">
+                        <div class="img-wrapper">
+                        </div>
+                        <div class="info-wrapper">
+                            <div class="info-title">Mug</div>
+                            <ul class="info-content">
+                                <li class="info-content-item">Sizes: <span> S M L</span></li>
+                                <li class="info-content-item">Price <span>$10</span></li>
+                            </ul>
+                        </div></a></div>
+                </article>
+            </section>
+
+            <section id="store-link">
+                <a href="StorePage.html">GO SHOPPING</a>
+            </section>
+        </div>
+
+        <div class="bgimg-4">
+
+        </div>
+
+        <div id="contact">
+
+            <section id="contact-title">
+                <h3>Contact</h3>
+            </section>
+
+            <form>
+                <div class="contact-field" tabindex="1">
+                    <label>
+                        <i class="contact-name"></i>Your Name
+                    </label>
+                    <input name="username" type="text" placeholder="e.g. john doe" required>
+                </div>
+                <div class="contact-field" tabindex="2">
+                    <label>
+                        <i class="contact-email"></i>Your Email
+                    </label>
+                    <input name="email" type="text" placeholder="email@domain.com" required>
+                </div>
+                <div class="contact-field" tabindex="3">
+                    <label>
+                        <i class="contact-message"></i>Your Message
+                    </label>
+                    <textarea name="message" placeholder="Type here" required></textarea>
+                </div>
+                <button type="button">Send Message</button>
+            </form>
+
+            <footer>
+                <p>Copyright &copy George Katsonis 2021 <3</p>
+                <div id="footer-info">
+                    <span class="fas fa-at"></span><span>giorgos_katsonis@hotmail.com</span>
+                    <span class="fas fa-mobile-alt"></span><span>6942946552</span>
+                </div>
+            </footer>
+        </div>
+    </div>
+
+    <script src="../JavaScript/HomePage.js"></script>
+</body>
+</html>

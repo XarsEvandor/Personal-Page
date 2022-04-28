@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="5c041e27-1ee0-4be8-9b81-9e764f59b9de" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="JavaScript File" />
+        <option value="HTML File" />
+        <option value="CSS File" />
+      </list>
+    </option>
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="21MjfDkkIg8VR6MM6zHhppoVaSO" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="php.override.implement.member.chooser.php.doc" value="NONE" />
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\giorg\Desktop\Programing\PHP\Web Development\Personal Page\Model\Forum\Database" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="LoginPage.js" type="NodeJSConfigurationType" temporary="true" nameIsGenerated="true" path-to-js-file="$PROJECT_DIR$/View/JavaScript/LoginPage.js" working-dir="$PROJECT_DIR$/View/JavaScript">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Node.js.LoginPage.js" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="5c041e27-1ee0-4be8-9b81-9e764f59b9de" name="Changes" comment="" />
+      <created>1637757953298</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1637757953298</updated>
+      <workItem from="1637757954841" duration="54000" />
+      <workItem from="1637758071298" duration="848000" />
+      <workItem from="1637762826765" duration="9116000" />
+      <workItem from="1637834280055" duration="5635000" />
+      <workItem from="1637845282387" duration="6073000" />
+      <workItem from="1637867041281" duration="1169000" />
+      <workItem from="1637918368773" duration="6548000" />
+      <workItem from="1638177211876" duration="20533000" />
+      <workItem from="1638259387783" duration="20771000" />
+      <workItem from="1638358764461" duration="10710000" />
+      <workItem from="1638374469041" duration="305000" />
+      <workItem from="1638380440048" duration="2218000" />
+      <workItem from="1638390037337" duration="4359000" />
+      <workItem from="1638439464787" duration="5732000" />
+      <workItem from="1638462165332" duration="5297000" />
+      <workItem from="1638523327393" duration="6365000" />
+      <workItem from="1638613226745" duration="9000" />
+      <workItem from="1638616023616" duration="1278000" />
+      <workItem from="1638725432853" duration="7804000" />
+      <workItem from="1638790627604" duration="10600000" />
+      <workItem from="1638819323682" duration="1596000" />
+      <workItem from="1638891522150" duration="18019000" />
+      <workItem from="1638912293408" duration="1246000" />
+      <workItem from="1638962682148" duration="1718000" />
+      <workItem from="1638965070156" duration="2676000" />
+      <workItem from="1638991031566" duration="7386000" />
+      <workItem from="1638999477105" duration="731000" />
+      <workItem from="1639044588745" duration="4166000" />
+      <workItem from="1639064362016" duration="18976000" />
+      <workItem from="1639116314156" duration="749000" />
+      <workItem from="1639136572824" duration="417000" />
+      <workItem from="1639152442473" duration="13579000" />
+      <workItem from="1639211185675" duration="49000" />
+      <workItem from="1639216469947" duration="3009000" />
+      <workItem from="1639229177126" duration="46285000" />
+      <workItem from="1639279387586" duration="3038000" />
+      <workItem from="1642617546476" duration="19000" />
+      <workItem from="1642674085404" duration="2152000" />
+      <workItem from="1643709968733" duration="1311000" />
+      <workItem from="1645523926385" duration="1942000" />
+      <workItem from="1648120794342" duration="258000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
